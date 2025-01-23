@@ -2,8 +2,6 @@
 
 This is a starting point for C++ solutions to the
 ["Build Your Own DNS server" Challenge]
-
-In this challenge, I'll build a DNS server that's capable of parsing and
 =======
 In this challenge, I build a DNS server that's capable of parsing and
 creating DNS packets, responding to DNS queries, handling various record types
